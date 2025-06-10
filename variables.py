@@ -1,0 +1,9 @@
+yourCity="Mumbai"
+cuurentYear=2025
+weigth=87.1
+print(yourCity)
+print(cuurentYear)
+print(weigth)
+print(type(yourCity))
+print(type(cuurentYear))
+print(type(weigth))
